@@ -1,7 +1,28 @@
 {
   "services": {
     "minigames": [
-      "Regicide"
+      "Regicide",
+      "Black Knights'Fortress",
+      "Cook's Assistant",
+      "Corsair Curse",
+      "Demon Slayer",
+      "Doric's Quest",
+      "Dragon Slayer",
+      "Ernest the Chicken",
+      "Goblin Diplomacy",
+      "Imp catcher",
+      "Misthalin Mystery",
+      "Pirate's Treasure",
+      "Prince Ali Rescue",
+      "Romeo and Juliet",
+      "Rune Mysteries",
+      "Sheep Shearer",
+      "Shield of Arrav",
+      "The Knight's Sword",
+      "The Restless Ghost",
+      "Vampire Slayer",
+      "Witch's Potion",
+      "X Marks the Spot"
     ],
     "quests": [
       "Quest1",
