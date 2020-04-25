@@ -1,7 +1,9 @@
 {
   "services": {
     "minigames": [
-      "Regicide",
+      "Regicide"
+    ],
+    "quests": [
       "Black Knights'Fortress",
       "Cook's Assistant",
       "Corsair Curse",
@@ -23,10 +25,6 @@
       "Vampire Slayer",
       "Witch's Potion",
       "X Marks the Spot"
-    ],
-    "quests": [
-      "Quest1",
-      "Watchtower"
     ],
     "accounts": [
       {
