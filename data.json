@@ -261,10 +261,10 @@
     ],
     "servers": [
       {
-        "name": "Dawntained",
-        "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
-        "assetPath": "./assets/images/servers/dawntained.png",
-        "stock": 50,
+        "name": "Ikov",
+        "description": "Price: 12M/b",
+        "assetPath": "./assets/images/servers/ikov.png",
+        "stock": "100B",
         "lower": {
           "width": "auto",
           "height": "30px",
