@@ -255,7 +255,9 @@
   },
   "servers": {
     "paymentMethods": [
-      "BTC"
+      "07gp",
+      "BTC",
+      "Paypal"
     ],
     "servers": [
       {
