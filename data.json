@@ -1,7 +1,19 @@
 {
   "services": {
     "minigames": [
-      "Regicide"
+      "Regicide",
+      "Firecape",
+      "Barbian assault",
+      "Pest control",
+      "Void",
+      "Chompy Kills",
+      "Tithe Farm",
+      "Mage arena 1 ",
+      "Mage arena 2",
+      "Castle Wars",
+      "Zeah House Favours",
+      "Rogues Den",
+      "Mage Training Arena"
     ],
     "quests": [
       "Black Knights'Fortress",
