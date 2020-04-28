@@ -265,6 +265,7 @@
         "description": "Price: 12M/b",
         "assetPath": "./assets/images/servers/ikov.png",
         "stock": "100B",
+        "unitRate":"B",
         "lower": {
           "width": "auto",
           "height": "30px",
@@ -279,6 +280,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "./assets/images/servers/oldschool-logo.png",
         "stock": 50,
+        "unitRate":"B",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -293,6 +295,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "./assets/images/servers/pkhonor.png",
         "stock": 50,
+        "unitRate":"B",
         "lower": {
           "width": "auto",
           "height": "20px",
@@ -307,6 +310,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "./assets/images/servers/soulplay.png",
         "stock": 50,
+        "unitRate":"B",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -321,6 +325,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "./assets/images/servers/rs3-logo.png",
         "stock": 50,
+        "unitRate":"B",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -335,6 +340,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "./assets/images/servers/elkoy.png",
         "stock": 50,
+        "unitRate":"B",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -349,6 +355,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "https://i.imgur.com/TLz6NeU.png",
         "stock": 50,
+        "unitRate":"B",
         "lower": {
           "width": "auto",
           "height": "50px",
