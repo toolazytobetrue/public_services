@@ -321,9 +321,9 @@
         }
       },
       {
-        "name": "RS3",
-        "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
-        "assetPath": "./assets/images/servers/rs3-logo.png",
+        "name": "Dreamscape",
+        "description": "",
+        "assetPath": "./assets/images/servers/dreamscape.png",
         "stock": 50,
         "unitRate": "B",
         "lower": {
@@ -336,9 +336,9 @@
         }
       },
       {
-        "name": "Elkoy",
-        "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
-        "assetPath": "./assets/images/servers/elkoy.png",
+        "name": "Vitality",
+        "description": "",
+        "assetPath": "./assets/images/servers/Vitality.png",
         "stock": 50,
         "unitRate": "B",
         "lower": {
@@ -351,9 +351,9 @@
         }
       },
       {
-        "name": "Loco PK",
+        "name": "Runewild",
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
-        "assetPath": "https://i.imgur.com/TLz6NeU.png",
+        "assetPath": "https://i.imgur.com/runewild.png",
         "stock": 50,
         "unitRate": "B",
         "lower": {
