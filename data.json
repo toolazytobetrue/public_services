@@ -262,10 +262,10 @@
     "servers": [
       {
         "name": "Ikov",
-        "description": "Price: 12M/b",
+        "description": "",
         "assetPath": "./assets/images/servers/ikov.png",
         "stock": "100B",
-        "unitRate":"B",
+        "unitRate": "B",
         "lower": {
           "width": "auto",
           "height": "30px",
@@ -276,11 +276,11 @@
         }
       },
       {
-        "name": "OldSchool",
-        "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
-        "assetPath": "./assets/images/servers/oldschool-logo.png",
+        "name": "Spawnpk",
+        "description": "",
+        "assetPath": "./assets/images/servers/spawnpk.png",
         "stock": 50,
-        "unitRate":"B",
+        "unitRate": "B",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -291,11 +291,11 @@
         }
       },
       {
-        "name": "PKHonor",
-        "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
-        "assetPath": "./assets/images/servers/pkhonor.png",
+        "name": "Zenyte",
+        "description": "",
+        "assetPath": "./assets/images/servers/zenyte.png",
         "stock": 50,
-        "unitRate":"B",
+        "unitRate": "B",
         "lower": {
           "width": "auto",
           "height": "20px",
@@ -306,11 +306,11 @@
         }
       },
       {
-        "name": "Soulplay",
+        "name": "Roatzpk",
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
-        "assetPath": "./assets/images/servers/soulplay.png",
+        "assetPath": "./assets/images/servers/Roatz.png",
         "stock": 50,
-        "unitRate":"B",
+        "unitRate": "B",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -325,7 +325,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "./assets/images/servers/rs3-logo.png",
         "stock": 50,
-        "unitRate":"B",
+        "unitRate": "B",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -340,7 +340,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "./assets/images/servers/elkoy.png",
         "stock": 50,
-        "unitRate":"B",
+        "unitRate": "B",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -355,7 +355,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "https://i.imgur.com/TLz6NeU.png",
         "stock": 50,
-        "unitRate":"B",
+        "unitRate": "B",
         "lower": {
           "width": "auto",
           "height": "50px",
