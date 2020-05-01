@@ -338,7 +338,22 @@
       {
         "name": "Vitality",
         "description": "",
-        "assetPath": "./assets/images/servers/Vitality.png",
+        "assetPath": "./assets/images/servers/vitality.png",
+        "stock": 50,
+        "unitRate": "B",
+        "lower": {
+          "width": "auto",
+          "height": "40px",
+          "margin_left": "0px",
+          "margin_right": "0px",
+          "margin_top": "10px",
+          "margin_bottom": "0px"
+        }
+      },
+      {
+        "name": "Pkhonor",
+        "description": "",
+        "assetPath": "./assets/images/servers/pkhonor.png",
         "stock": 50,
         "unitRate": "B",
         "lower": {
