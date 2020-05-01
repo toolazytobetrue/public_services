@@ -351,8 +351,8 @@
         }
       },
       {
-        "name": "Pkhonor gold per billions",
-        "description": "",
+        "name": "Pkhonor",
+        "description": "Pkhonor gold per billions",
         "assetPath": "./assets/images/servers/pkhonor.png",
         "stock": 50,
         "unitRate": "B",
