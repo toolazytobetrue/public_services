@@ -262,7 +262,7 @@
     "servers": [
       {
         "name": "Ikov",
-        "description": "",
+        "description": "Ikov gold by billions",
         "assetPath": "./assets/images/servers/ikov.png",
         "stock": "100B",
         "unitRate": "B",
@@ -277,7 +277,7 @@
       },
       {
         "name": "Spawnpk",
-        "description": "",
+        "description": "Spawnpk gold by trillions",
         "assetPath": "./assets/images/servers/spawnpk.png",
         "stock": 50,
         "unitRate": "T",
@@ -292,7 +292,7 @@
       },
       {
         "name": "Zenyte",
-        "description": "",
+        "description": "Zenyte gold by millions",
         "assetPath": "./assets/images/servers/zenyte.png",
         "stock": 50,
         "unitRate": "M",
@@ -307,7 +307,7 @@
       },
       {
         "name": "Roatzpk",
-        "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
+        "description": "Roatzpk gold per 100k",
         "assetPath": "./assets/images/servers/Roatz.png",
         "stock": 50,
         "unitRate": "K",
@@ -322,7 +322,7 @@
       },
       {
         "name": "Dreamscape",
-        "description": "",
+        "description": "Dreamscape gold per billions",
         "assetPath": "./assets/images/servers/dreamscape.png",
         "stock": 50,
         "unitRate": "B",
@@ -337,7 +337,7 @@
       },
       {
         "name": "Vitality",
-        "description": "",
+        "description": "Vitality gold per billions",
         "assetPath": "./assets/images/servers/vitality.png",
         "stock": 50,
         "unitRate": "B",
@@ -351,7 +351,7 @@
         }
       },
       {
-        "name": "Pkhonor",
+        "name": "Pkhonor gold per billions",
         "description": "",
         "assetPath": "./assets/images/servers/pkhonor.png",
         "stock": 50,
@@ -367,7 +367,7 @@
       },
       {
         "name": "Runewild",
-        "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
+        "description": "Runewild gold per billions",
         "assetPath": "https://i.imgur.com/runewild.png",
         "stock": 50,
         "unitRate": "B",
@@ -379,6 +379,8 @@
           "margin_top": "10px",
           "margin_bottom": "0px"
         }
+        
+        
       }
     ]
   }
