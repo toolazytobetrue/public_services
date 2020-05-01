@@ -280,7 +280,7 @@
         "description": "",
         "assetPath": "./assets/images/servers/spawnpk.png",
         "stock": 50,
-        "unitRate": "B",
+        "unitRate": "T",
         "lower": {
           "width": "auto",
           "height": "40px",
@@ -295,7 +295,7 @@
         "description": "",
         "assetPath": "./assets/images/servers/zenyte.png",
         "stock": 50,
-        "unitRate": "B",
+        "unitRate": "M",
         "lower": {
           "width": "auto",
           "height": "20px",
@@ -310,7 +310,7 @@
         "description": "200m+ Price: 4m 07 per 100m 1B+ Price: 3.5m 07 per 100m",
         "assetPath": "./assets/images/servers/Roatz.png",
         "stock": 50,
-        "unitRate": "B",
+        "unitRate": "K",
         "lower": {
           "width": "auto",
           "height": "40px",
