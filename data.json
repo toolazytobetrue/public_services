@@ -262,7 +262,7 @@
     "servers": [
       {
         "name": "Ikov",
-        "description": "Ikov gold by billions",
+        "description": "Ikov gold per billions",
         "assetPath": "./assets/images/servers/ikov.png",
         "stock": "100B",
         "unitRate": "B",
@@ -277,7 +277,7 @@
       },
       {
         "name": "Spawnpk",
-        "description": "Spawnpk gold by trillions",
+        "description": "Spawnpk gold per trillions",
         "assetPath": "./assets/images/servers/spawnpk.png",
         "stock": 50,
         "unitRate": "T",
@@ -292,7 +292,7 @@
       },
       {
         "name": "Zenyte",
-        "description": "Zenyte gold by millions",
+        "description": "Zenyte gold per millions",
         "assetPath": "./assets/images/servers/zenyte.png",
         "stock": 50,
         "unitRate": "M",
@@ -379,8 +379,6 @@
           "margin_top": "10px",
           "margin_bottom": "0px"
         }
-        
-        
       }
     ]
   }
