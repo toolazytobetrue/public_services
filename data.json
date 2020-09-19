@@ -385,23 +385,28 @@
     "feedback": [
         {
             "name": "UKF",
-            "description": "Good service"
+            "description": "Good service",
+            "stars": 5
         },
         {
             "name": "UKF",
-            "description": "Good service"
+            "description": "Good service",
+            "stars": 5
         },
         {
             "name": "UKF",
-            "description": "Good service"
+            "description": "Good service",
+            "stars": 5
         },
         {
             "name": "UKF",
-            "description": "Good service"
+            "description": "Good service",
+            "stars": 5
         },
         {
             "name": "UKF",
-            "description": "Good service"
+            "description": "Good service",
+            "stars": 5
         }
     ]
 }
